@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links in Mannheim</title>
+</head>
+<body>
+    <h1>Wichtige Links für Mannheim</h1>
+    <ul>
+        <li><a href="https://www.marchivum.de/de/blog/mannheimer-">Blog des Mannheimer Archivs</a></li>
+        <li><a href="https://www.mannheim.de/de/stadt-gestalten/daten-und-">Stadt Mannheim - Daten und Fakten</a></li>
+        <li><a href="https://nachrichten.de/auslaender-in-mannheim-gastarbeiter-und-imigrantengeschichten/die-">Gastarbeiter und Immigrantengeschichten in Mannheim</a></li>
+        <li><a href="https://www.mannheim.de/de/kultur-erleben/stadtgeschichte">Stadtgeschichte Mannheim</a></li>
+    </ul>
+</body>
+</html>
